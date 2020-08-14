@@ -1,0 +1,82 @@
+html {
+    font-size: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    background-color: skyblue;
+    padding: 50px;
+}
+
+.content {
+    background-color: black;
+    padding: 20px;
+    border: 5px solid gold;
+}
+
+.header {
+    text-align: center;
+    color: white;   
+}
+
+.image {
+    padding: 50px;
+    text-align: center;
+}
+
+#image {
+    border: 5px solid gold;
+}
+
+.about-me {
+    background-color: white;
+    padding: 20px;
+    text-align: center;        
+}
+
+.hobbies {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;      
+}
+
+.art {
+    
+    display: inline-block;
+    margin: 20px;
+}
+
+.music {
+    display: inline-block;
+    margin: 20px;
+}
+
+.sport {
+    display: inline-block;
+    margin: 20px;
+}
+
+#art-image {
+    border: 5px solid gold;
+}
+
+#music-image {
+    border: 5px solid gold;
+}
+
+#sport-image {
+    border: 5px solid gold;
+}
+
+.links {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;      
+}
